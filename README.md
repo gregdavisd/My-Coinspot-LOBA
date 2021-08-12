@@ -11,7 +11,7 @@ Easy setup:
 3. Copy & Paste your Read-Only keys into the sheet
 4. Press the "Sync Records" button
 
-If your keys work then the spreadsheet macros will then download your trading history and fill in seperate
+If your keys work then the spreadsheet macros will download your trading history and fill in seperate
 pages with the data. All done in seconds. From there the data is available to create custom reports or 
 to analyse.
 
